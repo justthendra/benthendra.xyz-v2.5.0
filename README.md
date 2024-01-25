@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h3>Preview</h3>
+<img src="https://cdn.discordapp.com/attachments/1083067621672493206/1191192093671039067/image.png"/>
 
 ## Getting Started
 
